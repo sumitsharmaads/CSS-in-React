@@ -67,3 +67,62 @@
 	text-align: center;
 	padding:10px;
 }
+
+.Box {
+	text-align: center;
+	color:#444;
+	margin:2px; 
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+.Outline {
+	border: 1px solid red;
+	width:900px;
+	text-align:center;
+	outline:2px solid yellow;
+	outline color:invert;
+	outline-width: 10px;
+	outline-offset: 20px;
+	margin: 10px 20px;
+}
+
+.Outline_offset{
+	margin:35px 100px;
+}
+
+.justify {
+	border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 250px;
+    text-align: justify;
+    margin-left: 10px;
+    color:#444;
+    background-color: tomato;
+}
+
+.Shadow h3 {
+	text-shadow: 2px 3px red;
+	color:green;
+	text-align: center;	
+}
+
+.Shadow p{
+	text-indent: 50px;
+	text-align: justify;
+	font-style: Monospace;
+	border:1px solid red;
+	width:80%;
+}
+
+.Times_new {	
+	font-family: "Times new roman", Times;
+	color:#444;
+}
+.San {	
+	text-decoration: none;
+	font-family: "sans serif";
+}
